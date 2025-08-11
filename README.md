@@ -145,4 +145,4 @@ Mas quando bem usada, me **ajuda a fazer meu trabalho com mais foco no que impor
 
 
 créditos: Andreline Lira  
-🔗 [linkedin.com/in/andrelinelira](https://www.linkedin.com/in/andrelinelira/)
+🔗 [linkedin.com/in/andrelinelira](https://www.linkedin.com/in/andrelineflira)
