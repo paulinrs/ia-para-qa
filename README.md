@@ -122,7 +122,27 @@ Mas quando bem usada, me **ajuda a fazer meu trabalho com mais foco no que impor
 🔗 [Analista de Qualidade x Analista de Testes: entenda a diferença](https://github.com/andreline/qa-vs-teste/tree/main)
 
 ---
+ <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/paulinrs">
+        <img src="https://avatars.githubusercontent.com/u/104467309?v=4" width="100px;" alt="Paulo Roberto"/>
+        <br />
+        <sub>
+          <b>Paulo Roberto</b>
+        </sub>
+       </a>
+       <br />
+    </td>
+  </tr>
+</table>
+ 
+ # 📫 Contato:
+  <a href="https://www.instagram.com/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paulinn.rs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulinnrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
 
-Feito com 💜 por Andreline Lira  
-📍 Recife – Brasil  
+
+créditos: Andreline Lira  
 🔗 [linkedin.com/in/andrelinelira](https://www.linkedin.com/in/andrelinelira/)
